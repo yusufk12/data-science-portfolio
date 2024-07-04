@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm Yusuf Khan, a health science professional with a unique blend of expertise in kinesiology and data analytics. I hold a BHSc in Kinesiology and Health Promotion from Sheridan College, and I'm currently expanding my skills through the Digital Health and Data Analytics program at The Michener Institute of Education at UHN.
+I'm Yusuf Khan, a health science professional with a unique blend of expertise in kinesiology and data analytics. I have a BHSc in Kinesiology and Health Promotion from Sheridan College, and I'm currently expanding my skills through the Digital Health and Data Analytics program at The Michener Institute of Education at UHN.
 
 My background in kinesiology, coupled with my growing proficiency in data analytics, allows me to approach health-related challenges from a multidimensional perspective. I'm passionate about leveraging data-driven insights to enhance health outcomes and optimize wellness strategies.
 
