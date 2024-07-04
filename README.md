@@ -30,8 +30,8 @@ I'm interested in exploring how data analytics can be applied to kinesiology and
 - Microsoft Office and Google Suite
 
 ## Projects
-1. Data Cleaning and PreProcessing (./project-1-directory)
-2. Exploratory Data Analysis(./project-2-directory)
+1. [Data Cleaning and PreProcessing](./data-cleaning-preprocessing)
+2. [Exploratory Data Analysis](./exploratory-data-analysis)
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/yusufkhan12/]
