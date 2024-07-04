@@ -24,12 +24,6 @@ The notebook includes visualizations such as:
 - Boxplots for Outliers
 - Correlation Heatmap
 
-## Instructions
-
-1. Download the dataset and save it in the same directory as the notebook.
-2. Run the notebook to see the data cleaning and preprocessing steps.
-3. Review the visualizations and results.
-
 ## Dependencies
 
 The following libraries are required to run the notebook:
