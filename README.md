@@ -34,5 +34,5 @@ I'm interested in exploring how data analytics can be applied to kinesiology and
 2. Exploratory Data Analysis(./project-2-directory)
 
 ## Contact
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/yusufkhan12/]
+- LinkedIn: [https://www.linkedin.com/in/yusufkhan12/]
 - Email: [ykhak117@gmail.com]
