@@ -4,7 +4,7 @@ This folder contains the Jupyter notebook for data cleaning and preprocessing of
 
 ## Notebook
 
-- [DataCleaningPreprocessing.ipynb](data-cleaning-preprocessing/DataCleaningPreprocessing.ipynb)
+- [DataCleaningPreprocessing.ipynb](DataCleaningPreprocessing.ipynb)
 
 ## Overview
 
