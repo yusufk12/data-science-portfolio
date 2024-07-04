@@ -4,7 +4,7 @@ This folder contains the Jupyter notebook for exploratory data analysis of a fit
 
 ## Notebook
 
-- [EDA-Fitness-Data.ipynb](EDA-Fitness-Data.ipynb)
+- [EDA Fitness Data.ipynb](EDA%20Fitness%20Data.ipynb)
 
 ## Overview
 
