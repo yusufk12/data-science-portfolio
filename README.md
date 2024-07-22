@@ -32,6 +32,8 @@ I'm interested in exploring how data analytics can be applied to kinesiology and
 ## Projects
 1. [Data Cleaning and PreProcessing](./data-cleaning-preprocessing)
 2. [Exploratory Data Analysis](./exploratory-data-analysis)
+3. [Time Series Analysis](./time-series-analysis/Time_Series_Analysis.ipynb)
+
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/yusufkhan12/]
