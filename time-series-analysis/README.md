@@ -7,6 +7,7 @@ This project involves analyzing trends in health metrics over time using the Pro
 ## Dataset
 
 The dataset contains daily records of steps, distance, run distance, and calories burned. The data spans several years and provides a comprehensive view of physical activity over time.
+Dataset retrieved from Kaggle
 
 ### Columns:
 - **date:** The date of the record.
@@ -24,7 +25,7 @@ The dataset contains daily records of steps, distance, run distance, and calorie
 
 ### 2. Outlier Detection and Removal
 - Identified outliers using the Interquartile Range (IQR) method.
-- Removed outliers to ensure the model is not influenced by extreme values.
+- Removed outliers to ensure extreme values do not influence the model.
 
 ### 3. Prophet Model
 - Prepared the data for the Prophet model.
@@ -36,10 +37,6 @@ The dataset contains daily records of steps, distance, run distance, and calorie
 - Calculated performance metrics including MAE, MSE, and RMSE to evaluate the model's accuracy.
 
 ## Results
-
-### Forecast Plot
-
-![Prophet Forecast (No Outliers)](path/to/your/forecast_plot.png)
 
 ### Performance Metrics
 
@@ -53,10 +50,6 @@ The performance metrics indicate an improvement in model accuracy after outlier 
 
 The Prophet model effectively identified trends and seasonal patterns in the daily steps data. Removing outliers improved the model's accuracy, as indicated by the performance metrics. This project demonstrates the importance of data preprocessing and the capability of the Prophet model in time series forecasting.
 
-## Files in This Repository
-
-- **TimeSeriesAnalysis.ipynb:** The Jupyter Notebook containing the code for the time series analysis and forecasting using the Prophet model.
-- **README.md:** This README file describing the project.
 
 ## How to Run the Notebook
 
