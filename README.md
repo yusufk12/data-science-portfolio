@@ -29,11 +29,12 @@ I'm interested in exploring how data analytics can be applied to kinesiology and
 - Collaborative software (Slack, Notion, Figma)
 - Microsoft Office and Google Suite
 
-## Projects
+## Data Exercises
 1. [Data Cleaning and PreProcessing](./data-cleaning-preprocessing)
 2. [Exploratory Data Analysis](./exploratory-data-analysis)
 3. [Time Series Analysis](./time-series-analysis/TimeSeriesAnalysis.ipynb)
 
+## Machine Learning Model for Predicting Diabetes
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/yusufkhan12/]
